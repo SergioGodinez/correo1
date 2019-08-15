@@ -1,0 +1,14 @@
+body{ 
+	background-image: url(img/azul.jpg); 
+}
+
+form{
+	background-image: url(img/blanco.jpg);
+	border-radius: 10px;
+	padding: 2%;
+	margin-top: 10%;
+}
+
+#boton{
+	color: white;
+}
